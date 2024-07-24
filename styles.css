@@ -90,7 +90,7 @@
 
 .img-bike {
   position: absolute;
-  top: 88%;
+  top: 90%;
   left: 25%;
   transform: translate(-50%, -50%);
   max-width: 100%; /* Optional: Ensure the image does not exceed its container */
@@ -98,7 +98,7 @@
 
 .img-bike2 {
   position: absolute;
-  top: 88%;
+  top: 90%;
   left: 75%;
   transform: translate(-50%, -50%);
   max-width: 100%; /* Optional: Ensure the image does not exceed its container */
