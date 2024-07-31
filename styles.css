@@ -88,29 +88,13 @@
   background-color: #2d2d66; /* Darker shade of the primary color on hover */
 }
 
-.img-bike {
-  position: absolute;
-  top: 92%;
-  left: 25%;
-  transform: translate(-50%, -50%);
-  max-width: 100%; /* Optional: Ensure the image does not exceed its container */
-}
-
-.img-bike2 {
-  position: absolute;
-  top: 92%;
-  left: 75%;
-  transform: translate(-50%, -50%);
-  max-width: 100%; /* Optional: Ensure the image does not exceed its container */
-}
-
 img {
   border: inset #2d2d66;
   width: 800px;
 }
 
 .table-container {
-  margin-top: 550px;
+  margin-top: 15px;
   width: 100%;
 }
 
